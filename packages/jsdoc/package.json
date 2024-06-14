@@ -31,7 +31,7 @@
     "requizzle": "^0.2.3",
     "strip-bom": "^4.0.0",
     "strip-json-comments": "^3.1.1",
-    "taffydb": "2.6.2"
+    "taffydb": "2.7.3"
   },
   "engines": {
     "node": ">=v16.13.1"
